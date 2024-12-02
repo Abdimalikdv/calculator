@@ -1,2 +1,2 @@
 # Calculator App
-This is a simple calculator app built using HTML, CSS, and JavaScript.
+This is a simple calculator app built using HTML, Tailwind CSS, and JavaScript.
